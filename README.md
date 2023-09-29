@@ -1,13 +1,21 @@
 # DataMiningAssignment3
 
 
-## Air Passenger Satisfaction
-https://medium.com/p/34f9db366420/edit?source=your_stories_page
+## CRISP-DM METHODOLOGY
+### Medium Article: 
+https://medium.com/@keerthana.parsa/heart-failure-prediction-utilizing-crisp-dm-2ed0f77710eb
+### Heart Failure Prediction: 
+Committed collaboratory file and Research paper
 
-Mobile Price Prediction
-https://colab.research.google.com/drive/1gtZQ109ONH_pTaZmjCSCMwjv_G_Y_v44?usp=sharing
-https://medium.com/p/583c0edcead/edit?source=your_stories_page
+## SEMMA METHODOLOGY
+### Medium Article: 
+https://medium.com/@keerthana.parsa/mobile-price-classification-utilizing-semma-methodology-583c0edcead
+### Mobile Price Prediction:
+Committed collaboratory file and Research paper
 
-Heart Failure Prediction
-https://colab.research.google.com/drive/15Zgm6ehp9XgteHcw4zAU4sitce0TtK9z?usp=sharing
-https://medium.com/p/2ed0f77710eb/edit?source=your_stories_page
+## KDD METHODOLOGY
+
+### Medium Article: 
+https://medium.com/@keerthana.parsa/predicting-air-passenger-satisfaction-utilizing-kdd-34f9db366420
+### Air Passenger Satisfaction: 
+Committed collaboratory file and Research paper
